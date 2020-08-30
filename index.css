@@ -1,0 +1,65 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  color: whitesmoke;
+  font-size: 20px;
+  font-family: 'Baloo Tamma 2', cursive;
+  font-family: 'Roboto', sans-serif;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.ddd {
+  width: 250px;
+  height: 39px;
+  margin-top: 4px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  top: 13px;
+  margin-left: 20%;
+  background-color: #ffffff;
+  
+}
+body::after {
+  content: " ";
+  background-image: url();
+  top: 0;
+  left: 0;
+  opacity: 0.25;
+  right: 0;
+  bottom: 0;
+  background-size: cover;
+  background-position: top center;
+  position: absolute;
+}
+.ree {
+  background-color: hsl(210, 93%, 32%);
+  width: 90px;
+  height: 40px;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  margin-left: 30px;
+  color: whitesmoke;
+  margin-top: 10px;
+  font-size: 15px;
+  box-sizing: border-box;
+
+}
+#input-2 {
+  margin-left: 20px;
+}
+a {
+  margin-left: 35px;
+  margin-top: 23px;
+  font-size: 15px;
+  color: white;
+  font-family: 'Roboto', sans-serif;
+  height: 13px;
+
+}
